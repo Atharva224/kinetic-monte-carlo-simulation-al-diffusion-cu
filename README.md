@@ -44,7 +44,7 @@ It compares the simulation results with analytical solutions based on the error 
 ![Al-Concentration Evolution at T=500K and T=600K](kmc.png)
 
 ### 📌 Final Al Distribution at T=650K, t=5s
-![1D Profile and 2D Atom Distribution](Coarse Grained Description.png)
+![1D Profile and 2D Atom Distribution](Coarse-Grained-Description.png)
 
 ---
 
