@@ -37,7 +37,7 @@ It compares the simulation results with analytical solutions based on the error 
 ### 📌 Analytical vs KMC at 600K
 ![Analytical vs KMC at 600K](diffusion.png)
 
-### 📌 Evolution of Al Concentration in a 20nm × 20nm Sandwich 
+### 📌 Evolution of Al Concentration in a 20nm × 20nm Sandwich and Al Atom Distribution
 ![Evolution of Al Concentration in a 20nm × 20nm Sandwich at T = 500K and T = 600K](kmc1.png)
 
 ### 📌 Atomistic KMC vs Analytical Profile at T = 600K, t = 5s
